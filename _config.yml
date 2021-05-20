@@ -39,6 +39,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/trevorswanson"
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
 # Build settings
 remote_theme: mmistakes/minimal-mistakes
@@ -67,6 +73,9 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+include:
+  - "_pages"
+
 defaults:
   # _posts
   - scope:
@@ -77,6 +86,7 @@ defaults:
       read_time: true
       author_profile: true
       related: true
+      layout: single
   #_pages
   - scope:
       path: ""

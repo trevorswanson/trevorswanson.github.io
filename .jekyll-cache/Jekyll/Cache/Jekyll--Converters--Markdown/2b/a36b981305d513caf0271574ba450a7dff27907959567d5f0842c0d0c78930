@@ -1,0 +1,47 @@
+I"T<h2 id="latest-posts">Latest Posts</h2>
+
+<h2 id="campaigns">Campaigns</h2>
+
+<div class="feature__wrapper">
+
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/icespire-peak.jpg" alt="Dragon of Icespire Peak" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Dragon of Icespire Peak Coming Soon <i>(coming soon)</i></h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Introducing two of my friends to D&amp;D with the help of two more experienced players</p>
+
+            </div>
+          
+
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<h2 id="helpful-resources">Helpful Resources</h2>
+
+<h3 id="dms">DMs</h3>
+<ul>
+  <li><a href="http://redkatart.com/dnd5tools/">Treasure Generator</a></li>
+  <li><a href="http://donjon.bin.sh/5e/">donjon</a></li>
+  <li><a href="http://kobold.club/fight/">Kobold Fight Club</a></li>
+</ul>
+
+<h3 id="players">Players</h3>
+:ET
