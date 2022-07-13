@@ -30,7 +30,7 @@ repository: "trevorswanson/trevorswanson.github.io"
 search: true
 author:
   name: "Trevor Swanson"
-  avatar: "/assets/images/bio-photo.jpeg"
+  avatar: "/assets/images/tswan.png"
   bio: "Father, gamer, D&D 5e DM, and Oxford comma enthusiast"
   links:
     - label: "Twitter"
@@ -87,7 +87,7 @@ defaults:
       author_profile: true
       related: true
       layout: single
-  #_pages
+  # _pages
   - scope:
       path: ""
       type: pages
