@@ -10,19 +10,5 @@
         "name": "tswan"
     },
     "items": [
-        {
-            "id": "https://tswan.me/about/",
-            "url": "https://tswan.me/about/",
-            "title": "about",
-            "summary": "Hi, I'm Trevor! I'm a father, husband, D&amp;D 5e DM, and Oxford&hellip;",
-            "content_html": "<h4>Hi, I'm Trevor!</h4>\n<p>I'm a father, husband, D&amp;D 5e DM, and Oxford comma enthusiast.</p>\n<p>I started this blog to try and take ownership of my digital identity – ever since the Twitter meltdown it's felt like the web is going back to a more decentralized model.</p>\n<p>This site is built using <a href=\"https://getpublii.com/\">Publii</a>, a static site generator that is a little less intense than something like <a href=\"https://jekyllrb.com/\">Jekyll</a> or <a href=\"https://gohugo.io/\">Hugo</a>.</p>\n<p>I grew up and still live in New England with my wife, son, daughter, three cats, and two fish. I work for a Fortune 500 company as a director of cloud engineering.</p>\n<p>I enjoy: fintech, science (both real and fiction), coffee, music, gadgets and tech, self-hosting.</p>",
-            "author": {
-                "name": "tswan"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-08-01T12:46:28-04:00",
-            "date_modified": "2024-08-01T12:46:28-04:00"
-        }
     ]
 }

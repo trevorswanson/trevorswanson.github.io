@@ -3,35 +3,10 @@
     <title>tswan.me</title>
     <link href="https://tswan.me/feed.xml" rel="self" />
     <link href="https://tswan.me" />
-    <updated>2024-08-01T12:46:28-04:00</updated>
+    <updated>1969-12-31T19:00:00-05:00</updated>
     <author>
         <name>tswan</name>
     </author>
     <id>https://tswan.me</id>
 
-    <entry>
-        <title>about</title>
-        <author>
-            <name>tswan</name>
-        </author>
-        <link href="https://tswan.me/about/"/>
-        <id>https://tswan.me/about/</id>
-
-        <updated>2024-08-01T12:46:28-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Hi, I'm Trevor! I'm a father, husband, D&amp;D 5e DM, and Oxford&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h4>Hi, I'm Trevor!</h4>
-<p>I'm a father, husband, D&amp;D 5e DM, and Oxford comma enthusiast.</p>
-<p>I started this blog to try and take ownership of my digital identity – ever since the Twitter meltdown it's felt like the web is going back to a more decentralized model.</p>
-<p>This site is built using <a href="https://getpublii.com/">Publii</a>, a static site generator that is a little less intense than something like <a href="https://jekyllrb.com/">Jekyll</a> or <a href="https://gohugo.io/">Hugo</a>.</p>
-<p>I grew up and still live in New England with my wife, son, daughter, three cats, and two fish. I work for a Fortune 500 company as a director of cloud engineering.</p>
-<p>I enjoy: fintech, science (both real and fiction), coffee, music, gadgets and tech, self-hosting.</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
