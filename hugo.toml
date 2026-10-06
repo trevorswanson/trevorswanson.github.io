@@ -1,0 +1,54 @@
+baseURL = 'https://tswan.me/'
+locale = 'en-us'
+title = 'Trevor Swanson'
+theme = 'PaperMod'
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+
+[params]
+  author = 'Trevor Swanson'
+  description = 'Essays on fleet-scale infrastructure, platform engineering, and automation.'
+  images = ['cover.jpg']
+  defaultTheme = 'auto'
+  ShowReadingTime = true
+  ShowWordCount = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = true
+  tocopen = false
+
+  profileMode.enabled = true
+  profileMode.title = 'Trevor Swanson'
+  profileMode.subtitle = 'Director of OpenShift Engineering. Essays on fleet-scale infrastructure, intent-based platforms, and defensive automation.'
+  profileMode.imageUrl = 'images/avatar.png'
+  profileMode.imageTitle = ''
+  profileMode.buttons = [
+    { name = 'Essays', url = '/posts/' },
+  ]
+
+  socialIcons = [
+    { name = 'github', url = 'https://github.com/trevorswanson' },
+    { name = 'linkedin', url = 'https://www.linkedin.com/in/trevorswanson' },
+  ]
+
+[menu]
+  [[menu.main]]
+    identifier = 'essays'
+    name = 'Essays'
+    url = '/posts/'
+    weight = 10
+  [[menu.main]]
+    identifier = 'about'
+    name = 'About'
+    url = '/about/'
+    weight = 20
+
+[outputs]
+  home = ['HTML', 'RSS']
